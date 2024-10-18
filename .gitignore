@@ -3,5 +3,6 @@ dist
 /src/lang/*
 !/src/lang/en/
 !/src/lang/zh-CN/
+!/src/lang/zh-TW/
 .DS_Store
 .idea
