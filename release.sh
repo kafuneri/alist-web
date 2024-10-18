@@ -17,6 +17,7 @@ rm zh-CN.zip
 rm zh-TW.zip
 rm ja.zip
 pnpm build
+cp -r live2d dist/live2d
 cp -r dist ../
 cd ..
 
