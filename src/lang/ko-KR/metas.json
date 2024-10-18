@@ -1,0 +1,12 @@
+{
+  "path": "경로",
+  "password": "비밀번호",
+  "write": "쓰기",
+  "hide": "숨기기",
+  "readme": "설명",
+  "readme_help": "하단에 Markdown을 렌더링하며, 내용이나 링크를 지원합니다",
+  "header": "헤더 설명",
+  "header_help": "상단에 Markdown을 렌더링하며, 내용이나 링크를 지원합니다",
+  "apply_sub": "하위 폴더에 적용",
+  "hide_help": "한 줄에 하나씩 정규 표현식을 입력하세요"
+}

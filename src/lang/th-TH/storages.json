@@ -1,0 +1,46 @@
+{
+  "common": {
+    "mount_path": "เส้นทางเมานต์",
+    "mount_path-tips": "เส้นทางที่ต้องการเมานต์ มันต้องไม่ซ้ำกัน",
+    "driver": "ไดรเวอร์",
+    "order": "ลำดับ",
+    "order-tips": "สำหรับการจัดลำดับ",
+    "status": "สถานะ",
+    "remark": "หมายเหตุ",
+    "cache_expiration": "เวลาหมดอายุของแคช",
+    "cache_expiration-tips": "เวลาหมดอายุของแคชของที่เก็บนี้ (นาที)",
+    "down_proxy_url": "URL พร็อกซีดาวน์โหลด",
+    "web_proxy": "Web พร็อกซี",
+    "webdav_policy": "นโยบาย WebDAV",
+    "proxy_range": "ช่วงพร็อกซี",
+    "proxy_range-tips": "จำเป็นต้องเปิดใช้งานพร็อกซี",
+    "webdav_policys": {
+      "302_redirect": "302 เปลี่ยนเส้นทาง",
+      "use_proxy_url": "ใช้ที่อยู่พร็อกซี",
+      "native_proxy": "พร็อกซีท้องถิ่น"
+    },
+    "order_by": "เรียงลำดับโดย",
+    "order_bys": {
+      "name": "ชื่อ",
+      "size": "ขนาด",
+      "modified": "เวลาแก้ไข"
+    },
+    "order_direction": "ทิศทางการเรียงลำดับ",
+    "order_directions": {
+      "asc": "เรียงจากน้อยไปมาก",
+      "desc": "เรียงจากมากไปน้อย"
+    },
+    "extract_folder": "แยกโฟลเดอร์",
+    "extract_folders": {
+      "front": "แยกไปด้านหน้า",
+      "back": "แยกไปด้านหลัง"
+    },
+    "enable_sign": "เปิดใช้งานลายเซ็น"
+  },
+  "other": {
+    "start_load_success": "เริ่มโหลด",
+    "load_all": "โหลดทั้งหมดใหม่",
+    "filter_by_driver": "กรองตามไดรเวอร์",
+    "table_layout": "เค้าโครงตาราง"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "common": {
+    "mount_path": "마운트 경로",
+    "mount_path-tips": "마운트할 경로로, 고유하며 중복될 수 없습니다",
+    "driver": "드라이버",
+    "order": "순서",
+    "order-tips": "정렬에 사용됨",
+    "status": "상태",
+    "remark": "비고",
+    "cache_expiration": "캐시 만료 시간",
+    "cache_expiration-tips": "이 저장소의 캐시 만료 시간(분)",
+    "down_proxy_url": "다운로드 프록시 URL",
+    "web_proxy": "웹 프록시",
+    "webdav_policy": "WebDAV 정책",
+    "proxy_range": "프록시 범위",
+    "proxy_range-tips": "프록시가 필요합니다",
+    "webdav_policys": {
+      "302_redirect": "302 리디렉션",
+      "use_proxy_url": "프록시 주소 사용",
+      "native_proxy": "로컬 프록시"
+    },
+    "order_by": "정렬",
+    "order_bys": {
+      "name": "이름",
+      "size": "크기",
+      "modified": "수정 시간"
+    },
+    "order_direction": "정렬 방향",
+    "order_directions": {
+      "asc": "오름차순",
+      "desc": "내림차순"
+    },
+    "extract_folder": "폴더 추출",
+    "extract_folders": {
+      "front": "앞으로 추출",
+      "back": "뒤로 추출"
+    },
+    "enable_sign": "서명 사용"
+  },
+  "other": {
+    "start_load_success": "로드 시작",
+    "load_all": "전체 다시 로드",
+    "filter_by_driver": "드라이버로 필터링",
+    "table_layout": "테이블 레이아웃"
+  }
+}

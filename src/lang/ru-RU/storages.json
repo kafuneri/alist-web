@@ -1,0 +1,46 @@
+{
+  "common": {
+    "mount_path": "Путь монтирования",
+    "mount_path-tips": "Путь, к которому вы хотите подключиться, является уникальным и не может быть повторен",
+    "driver": "Водитель",
+    "order": "Заказ",
+    "order-tips": "Сортировать",
+    "status": "Статус",
+    "remark": "Замечание",
+    "cache_expiration": "Истечение кэша",
+    "cache_expiration-tips": "Время истечения кэша хранилища (минут)",
+    "down_proxy_url": "Скачать URL-адрес прокси",
+    "web_proxy": "Веб прокси",
+    "webdav_policy": "Политика WebDAV",
+    "proxy_range": "Proxy Range",
+    "proxy_range-tips": "Необходимо включить прокси",
+    "webdav_policys": {
+      "302_redirect": "302 редиректа",
+      "use_proxy_url": "использовать URL-адрес прокси",
+      "native_proxy": "родной прокси"
+    },
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "name": "Наименование",
+      "size": "Размер",
+      "modified": "Изменено"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "По возрастанию",
+      "desc": "По убыванию"
+    },
+    "extract_folder": "Извлечь папку",
+    "extract_folders": {
+      "front": "Извлечь на передний план",
+      "back": "Извлечь в обратную сторону"
+    },
+    "enable_sign": "Включить знак"
+  },
+  "other": {
+    "start_load_success": "Начать загрузку",
+    "load_all": "Обновить все",
+    "filter_by_driver": "Фильтр по водителю",
+    "table_layout": "Макет таблицы"
+  }
+}

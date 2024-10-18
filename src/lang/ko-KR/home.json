@@ -1,0 +1,171 @@
+{
+  "obj": {
+    "name": "이름",
+    "size": "크기",
+    "modified": "수정 시간"
+  },
+  "preview": {
+    "download": "다운로드",
+    "failed_load_img": "이미지 로드 실패",
+    "open_with": "...으로 열기",
+    "play_with": "...으로 재생",
+    "install": "설치",
+    "installing": "설치 중",
+    "tr-install": "TrollStore",
+    "tr-installing": "TrollStore 설치 중",
+    "open_in_new_window": "새 창에서 열기",
+    "auto_next": "자동 다음"
+  },
+  "layouts": {
+    "list": "목록 보기",
+    "grid": "격자 보기",
+    "image": "이미지 보기"
+  },
+  "no_images": "현재 폴더에 이미지가 없습니다",
+  "load_more": "더 불러오기",
+  "no_more": "더 이상 없음",
+  "input_password": "비밀번호를 입력하세요",
+  "toolbar": {
+    "more": "더보기",
+    "refresh": "새로 고침",
+    "toggle_theme": "테마 전환",
+    "switch_lang": "언어 전환",
+    "toggle_markdown_toc": "목차 표시",
+    "toggle_checkbox": "체크박스 전환",
+    "rename": "이름 바꾸기",
+    "input_new_name": "새 이름을 입력하세요",
+    "only_one-tips": "하나의 객체만 이름을 바꿀 수 있습니다",
+    "move": "이동",
+    "copy": "복사",
+    "choose_dst_folder": "대상 폴더 선택",
+    "delete": "삭제",
+    "delete-tips": "선택한 객체를 삭제하시겠습니까?",
+    "copy_link": "링크 복사",
+    "preview_page": "페이지 미리보기",
+    "down_link": "다운로드 링크",
+    "encode_down_link": "다운로드 링크 인코딩",
+    "mkdir": "새 폴더 만들기",
+    "input_dir_name": "폴더 이름을 입력하세요",
+    "new_file": "새 파일 만들기",
+    "input_filename": "파일 이름을 입력하세요",
+    "cancel_select": "선택 취소",
+    "offline_download": "오프라인 다운로드",
+    "offline_download-tips": "한 줄에 하나의 링크",
+    "delete_policy": {
+      "delete_on_upload_succeed": "업로드 성공 시 삭제",
+      "delete_on_upload_failed": "업로드 실패 시 삭제",
+      "delete_never": "삭제하지 않음",
+      "delete_always": "항상 삭제"
+    },
+    "download": "다운로드",
+    "batch_download": "일괄 다운로드",
+    "package_download": "패키지 다운로드",
+    "package_download_disabled": "패키지 다운로드 비활성화됨",
+    "send_aria2": "Aria2로 보내기",
+    "aria2_not_set": "aria2 rpc url을 설정하세요",
+    "send_aria2_success": "aria2로 성공적으로 보냈습니다",
+    "pre_package_download-tips": "브라우저에서 streamsaver를 사용하여 패키지 다운로드를 수행하려면 해당 스토리지에서 cors를 지원해야 합니다. 지원하지 않는 스토리지는 실패합니다.",
+    "package_download-tips": "다운로드 중입니다. 페이지를 닫지 마십시오.",
+    "playlist_download": "재생 목록 다운로드",
+    "upload": "업로드",
+    "local_settings": "로컬 설정",
+    "recursive_move": "재귀 이동",
+    "recursive_move_directory-tips": "현재 폴더와 하위 폴더의 모든 파일을 지정된 폴더로 이동하시겠습니까?",
+    "remove_empty_directory": "빈 하위 디렉토리 제거",
+    "remove_empty_directory-tips": "모든 빈 하위 폴더를 삭제하시겠습니까?",
+    "batch_rename": "일괄 이름 변경",
+    "regex_rename": "정규식 이름 변경",
+    "sequential_renaming": "순차적 이름 변경",
+    "regex_rename_preview": "변경된 파일",
+    "regex_rename_preview_old_name": "기존 이름",
+    "regex_rename_preview_new_name": "새 이름",
+    "regular_rename": "정규식 파일 이름 변경. 첫 번째 줄에 원본 파일 이름 정규식을 입력하고 두 번째 줄에 새 파일 이름 정규식을 입력하세요.",
+    "sequential_renaming_desc": "새 파일 이름에는 숫자 시작 값이 추가되며, 시작 값에 1을 더해 순차적으로 표시됩니다. 첫 번째 줄에 새 파일 이름을 입력하고 두 번째 줄에 시작 값을 입력하세요."
+  },
+  "upload": {
+    "add_as_task": "작업으로 추가",
+    "upload-tips": "파일을 이곳으로 드래그하여 업로드하거나 클릭하여 선택하세요:",
+    "release": "업로드를 위해 놓으세요",
+    "no_files_drag": "드래그된 파일이 없습니다.",
+    "upload_files": "파일 선택",
+    "upload_folder": "폴더 선택",
+    "pending": "대기 중...",
+    "uploading": "업로드 중",
+    "backending": "백엔드 업로드 중",
+    "success": "성공",
+    "error": "오류",
+    "back": "업로드로 돌아가기",
+    "clear_done": "완료 항목 지우기"
+  },
+  "local_settings": {
+    "aria2_rpc_url": "Aria2 RPC 링크",
+    "aria2_rpc_secret": "Aria2 RPC 비밀키",
+    "aria2_dir": "Aria2 다운로드 디렉토리",
+    "show_folder_in_image_view": "이미지 보기에서 폴더 표시",
+    "show_folder_in_image_view_options": {
+      "top": "상단",
+      "bottom": "하단",
+      "none": "없음"
+    },
+    "global_default_layout": "전역 기본 레이아웃",
+    "global_default_layout_options": {
+      "list": "목록 보기",
+      "grid": "격자 보기",
+      "image": "이미지 보기"
+    },
+    "position_of_header_navbar": "헤더 및 내비게이션 바의 위치",
+    "position_of_header_navbar_options": {
+      "static": "일반",
+      "sticky": "페이지 상단에 고정",
+      "only_navbar_sticky": "내비게이션 바만 고정"
+    },
+    "show_sidebar": "사이드바 표시",
+    "show_sidebar_options": {
+      "none": "없음",
+      "visible": "보임"
+    },
+    "list_item_filename_overflow": "목록 항목 파일 이름 오버플로우",
+    "list_item_filename_overflow_options": {
+      "ellipsis": "생략 부호",
+      "scrollable": "스크롤 가능",
+      "multi_line": "다중 줄 표시"
+    },
+    "open_item_on_checkbox": "체크박스에서 항목 열기",
+    "open_item_on_checkbox_options": {
+      "direct": "직접 열기",
+      "disable_while_checked": "선택된 동안 비활성화",
+      "with_ctrl": "Ctrl/Command 키를 누른 상태에서 열기",
+      "with_alt": "Alt/Option 키를 누른 상태에서 열기"
+    },
+    "select_with_mouse": "체크박스가 꺼져 있을 때 마우스로 선택",
+    "select_with_mouse_options": {
+      "disabled": "비활성화",
+      "open_item_with_dblclick": "더블 클릭으로 항목 열기"
+    }
+  },
+  "package_download": {
+    "current_status": "현재 상태",
+    "initializing": "초기화 중",
+    "fetching_struct": "폴더 구조 가져오는 중",
+    "fetching_struct_failed": "폴더 구조 가져오기 실패",
+    "downloading": "파일 다운로드 중, 페이지를 닫거나 새로 고침하지 마십시오",
+    "failed": "패키지 다운로드 실패",
+    "success": "다운로드 완료"
+  },
+  "footer": {
+    "powered_by": "AList 구동",
+    "manage": "관리"
+  },
+  "search": {
+    "search": "검색",
+    "no_result": "결과 없음",
+    "scopes": {
+      "all": "전체",
+      "folder": "폴더",
+      "file": "파일"
+    }
+  },
+  "fetching_settings_failed": "설정 가져오기 실패: ",
+  "get_current_user_failed": "현재 사용자 가져오기 실패: ",
+  "Loading storage, please wait": "저장소 로딩 중, 잠시만 기다려 주세요"
+}

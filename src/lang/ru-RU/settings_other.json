@@ -1,0 +1,13 @@
+{
+  "aria2": "Aria2",
+  "aria2_version": "Версия Aria2:",
+  "set_aria2": "Установить aria2",
+  "copy_token": "Копировать токен",
+  "reset_token": "Reset Token",
+  "reset_token_success": "Токен сброшен успешно",
+  "unknown_type": "Неизвестный тип",
+  "set_qbit": "Установить qBittorrent",
+  "qbittorrent": "qBittorrent",
+  "transmission": "Transmission",
+  "set_transmission": "Set Transmission"
+}

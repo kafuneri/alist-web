@@ -1,0 +1,13 @@
+{
+  "login_to": "로그인",
+  "username-tips": "사용자 이름을 입력하세요",
+  "password-tips": "비밀번호를 입력하세요",
+  "otp-tips": "OTP 코드를 입력하세요",
+  "remember": "계정 기억하기",
+  "forget": "비밀번호를 잊으셨나요?",
+  "forget_url": "https://alist.nn.ci/zh/faq/howto.html#%E5%Bf%98%E8%Ae%B0%E5%Af%86%E7%A0%81%E6%80%8E%E4%B9%88%E5%8A%9E",
+  "clear": "지우기",
+  "login": "로그인",
+  "use_guest": "게스트로 보기",
+  "success": "로그인 성공"
+}

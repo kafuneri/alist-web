@@ -1,0 +1,13 @@
+{
+  "aria2": "Aria2",
+  "aria2_version": "เวอร์ชัน Aria2:",
+  "set_aria2": "ตั้งค่า aria2",
+  "copy_token": "คัดลอกโทเค็น",
+  "reset_token": "รีเซ็ตโทเค็น",
+  "reset_token_success": "รีเซ็ตโทเค็นสำเร็จ",
+  "unknown_type": "ประเภทที่ไม่รู้จัก",
+  "set_qbit": "ตั้งค่า qBittorrent",
+  "qbittorrent": "qBittorrent",
+  "transmission": "Transmission",
+  "set_transmission": "Set Transmission"
+}

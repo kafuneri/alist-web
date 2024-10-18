@@ -1,0 +1,1143 @@
+{
+  "115 Cloud": {
+    "cookie": "Печенье",
+    "cookie-tips": "требуется один из маркеров QR-кода и cookie",
+    "limit_rate": "Лимит тариф",
+    "limit_rate-tips": "ограничить все частоты запросов api (1r/[limit_rate]с)",
+    "page_size": "Размер страницы",
+    "page_size-tips": "список api на страницу в размере 115 драйверов",
+    "qrcode_source": "Источник Qrcode",
+    "qrcode_source-tips": "выберите устройство QR-кода, по умолчанию",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "Иос",
+      "qandroid": "Qandroid",
+      "tv": "Tv",
+      "web": "Веб",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Код Qrcode",
+    "qrcode_token-tips": "требуется один из маркеров QR-кода и cookie",
+    "root_folder_id": "ID корневой папки"
+  },
+  "115 Share": {
+    "cookie": "Печенье",
+    "cookie-tips": "требуется один из маркеров QR-кода и cookie",
+    "limit_rate": "Лимит тариф",
+    "limit_rate-tips": "ограничить все частоты запросов api (1r/[limit_rate]с)",
+    "page_size": "Размер страницы",
+    "page_size-tips": "список api на страницу в размере 115 драйверов",
+    "qrcode_source": "Источник Qrcode",
+    "qrcode_source-tips": "выберите устройство QR-кода, по умолчанию",
+    "qrcode_sources": {
+      "alipaymini": "Alipaymini",
+      "android": "Android",
+      "ios": "Иос",
+      "qandroid": "Qandroid",
+      "tv": "Tv",
+      "web": "Веб",
+      "wechatmini": "Wechatmini"
+    },
+    "qrcode_token": "Код Qrcode",
+    "qrcode_token-tips": "требуется один из маркеров QR-кода и cookie",
+    "receive_code": "Получить код",
+    "receive_code-tips": "получить код ссылки на 115",
+    "root_folder_id": "ID корневой папки",
+    "share_code": "Поделиться кодом",
+    "share_code-tips": "поделиться кодом 115 общей ссылки"
+  },
+  "123Pan": {
+    "password": "Пароль",
+    "root_folder_id": "ID корневой папки",
+    "username": "Имя пользователя"
+  },
+  "123PanLink": {
+    "origin_urls": "Исходные url",
+    "origin_urls-tips": "структура:Имя папки:\n  [Размер:][Изменено:]Url",
+    "private_key": "Приватный ключ",
+    "uid": "Уид",
+    "valid_duration": "Действительная длительность",
+    "valid_duration-tips": "минуты"
+  },
+  "123PanShare": {
+    "accesstoken": "Accesstoken",
+    "root_folder_id": "ID корневой папки",
+    "sharekey": "Sharekey",
+    "sharepassword": "Sharepassword"
+  },
+  "139Yun": {
+    "authorization": "Авторизация",
+    "cloud_id": "Идентификатор облака",
+    "root_folder_id": "ID корневой папки",
+    "type": "Тип",
+    "types": {
+      "family": "Семья",
+      "personal": "Личные сведения",
+      "personal_new": "Личные новые"
+    }
+  },
+  "189Cloud": {
+    "cookie": "Печенье",
+    "cookie-tips": "Заполните Cookie если требуется капча",
+    "password": "Пароль",
+    "root_folder_id": "ID корневой папки",
+    "username": "Имя пользователя"
+  },
+  "189CloudPC": {
+    "family_id": "Семейный id",
+    "family_transfer": "Перемещение семьи",
+    "no_use_ocr": "Не использовать ocr",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "filename": "Имя файла",
+      "filesize": "Размер файла",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "Аск",
+      "desc": "Desc"
+    },
+    "password": "Пароль",
+    "rapid_upload": "Быстрая загрузка",
+    "root_folder_id": "ID корневой папки",
+    "type": "Тип",
+    "types": {
+      "family": "Семья",
+      "personal": "Личные сведения"
+    },
+    "upload_method": "Способ загрузки",
+    "upload_methods": {
+      "old": "Старый",
+      "rapid": "Быстрое",
+      "stream": "Поток"
+    },
+    "upload_thread": "Загрузить тему",
+    "upload_thread-tips": "1<=поток<=32",
+    "username": "Имя пользователя",
+    "validate_code": "Validate code"
+  },
+  "AList V2": {
+    "access_token": "Маркер доступа",
+    "password": "Пароль",
+    "root_folder_path": "Путь к корневой папке",
+    "url": "Url"
+  },
+  "AList V3": {
+    "meta_password": "Мета-пароль",
+    "pass_ua_to_upsteam": "Передать ua в пар",
+    "password": "Пароль",
+    "root_folder_path": "Путь к корневой папке",
+    "token": "Токен",
+    "url": "Url",
+    "username": "Имя пользователя"
+  },
+  "Alias": {
+    "paths": "Пути",
+    "protect_same_name": "Защитить такое же имя",
+    "protect_same_name-tips": "Защищает один и тот же файл от удаления или переименования"
+  },
+  "Aliyundrive": {
+    "internal_upload": "Внутренняя загрузка",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "created_at": "Создано в",
+      "name": "Наименование",
+      "size": "Размер",
+      "updated_at": "Обновлено в"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "ASC": "ОК",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "Быстрая загрузка",
+    "refresh_token": "Обновить токен",
+    "root_folder_id": "ID корневой папки"
+  },
+  "AliyundriveOpen": {
+    "client_id": "ID клиента",
+    "client_id-tips": "Оставьте пустым, если у вас нет ни одного",
+    "client_secret": "Секрет клиента",
+    "client_secret-tips": "Оставьте пустым, если у вас нет ни одного",
+    "drive_type": "Тип диска",
+    "drive_types": {
+      "backup": "Резервное копирование",
+      "default": "По умолчанию",
+      "resource": "Ресурс"
+    },
+    "internal_upload": "Внутренняя загрузка",
+    "internal_upload-tips": "Если вы используете Aliyun ECS в Пекине, вы можете включить его, чтобы увеличить скорость загрузки",
+    "livp_download_format": "Формат загрузки Livp",
+    "livp_download_formats": {
+      "jpeg": "Jpeg",
+      "mov": "Видео"
+    },
+    "oauth_token_url": "URL токена Oauth",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "created_at": "Создано в",
+      "name": "Наименование",
+      "size": "Размер",
+      "updated_at": "Обновлено в"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "ASC": "ОК",
+      "DESC": "DESC"
+    },
+    "rapid_upload": "Быстрая загрузка",
+    "rapid_upload-tips": "Если вы включите эту опцию, файл будет загружен на сервер первым, так что прогресс будет неверен",
+    "refresh_token": "Обновить токен",
+    "remove_way": "Удалить линию",
+    "remove_ways": {
+      "delete": "Удалить",
+      "trash": "Корзина"
+    },
+    "root_folder_id": "ID корневой папки"
+  },
+  "AliyundriveShare": {
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "created_at": "Создано в",
+      "name": "Наименование",
+      "size": "Размер",
+      "updated_at": "Обновлено в"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "ASC": "ОК",
+      "DESC": "DESC"
+    },
+    "refresh_token": "Обновить токен",
+    "root_folder_id": "ID корневой папки",
+    "share_id": "Поделиться id",
+    "share_pwd": "Поделиться pwd"
+  },
+  "BaiduNetdisk": {
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "custom_crack_ua": "Пользовательский crack ua",
+    "custom_upload_part_size": "Пользовательский размер части загрузки",
+    "custom_upload_part_size-tips": "0 для авто",
+    "download_api": "Скачать api",
+    "download_apis": {
+      "crack": "Треснуть",
+      "official": "Официальный"
+    },
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "name": "Наименование",
+      "size": "Размер",
+      "time": "Время"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "Аск",
+      "desc": "Desc"
+    },
+    "refresh_token": "Обновить токен",
+    "root_folder_path": "Путь к корневой папке",
+    "upload_api": "Загрузить api",
+    "upload_thread": "Загрузить тему",
+    "upload_thread-tips": "1<=поток<=32"
+  },
+  "BaiduPhoto": {
+    "album_id": "ID альбома",
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "delete_origin": "Удалить источник",
+    "refresh_token": "Обновить токен",
+    "show_type": "Показать тип",
+    "show_types": {
+      "root": "Корень",
+      "root_only_album": "Только корневой альбом",
+      "root_only_file": "Только Root файл"
+    },
+    "upload_thread": "Загрузить тему",
+    "upload_thread-tips": "1<=поток<=32"
+  },
+  "BaiduShare": {
+    "BDUSS": "БДУСЫ",
+    "pwd": "Pwd",
+    "root_folder_path": "Путь к корневой папке",
+    "surl": "Surl"
+  },
+  "ChaoXingGroupDrive": {
+    "bbsid": "Bbsid",
+    "cookie": "Печенье",
+    "password": "Пароль",
+    "root_folder_id": "ID корневой папки",
+    "user_name": "Имя пользователя"
+  },
+  "Cloudreve": {
+    "address": "Адрес",
+    "cookie": "Печенье",
+    "custom_ua": "Настраиваемая а",
+    "enable_thumb_and_folder_size": "Включить размер миниатюры и папки",
+    "password": "Пароль",
+    "root_folder_path": "Путь к корневой папке",
+    "username": "Имя пользователя"
+  },
+  "Crypt": {
+    "directory_name_encryption": "Шифрование имени каталога",
+    "directory_name_encryptions": {
+      "false": "Ложь",
+      "true": "Истина"
+    },
+    "encrypted_suffix": "Зашифрованный суффикс",
+    "encrypted_suffix-tips": "только для опытных пользователей! зашифрованные файлы будут иметь этот суффикс",
+    "filename_encoding": "Кодировка имени файла",
+    "filename_encoding-tips": "для опытных пользователей!",
+    "filename_encodings": {
+      "base32": "Base32",
+      "base32768": "Base32768",
+      "base64": "Base64"
+    },
+    "filename_encryption": "Шифрование имени файла",
+    "filename_encryptions": {
+      "obfuscate": "Обфускация",
+      "off": "Выкл",
+      "standard": "Стандартный"
+    },
+    "password": "Пароль",
+    "password-tips": "основной пароль",
+    "remote_path": "Удаленный путь",
+    "remote_path-tips": "Здесь хранятся зашифрованные данные",
+    "salt": "Соль",
+    "salt-tips": "Если вы не знаете, что такое соль, считать его вторым паролем. Необязательно, но рекомендуется",
+    "show_hidden": "Показать скрытые",
+    "show_hidden-tips": "показывать скрытые каталоги и файлы",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "разрешить эскизы, которые были созданы под папкой .thumbnails"
+  },
+  "Doge": {
+    "access_key_id": "ID ключа доступа",
+    "add_filename_to_disposition": "Добавить имя файла для утилизации",
+    "add_filename_to_disposition-tips": "Добавить имя файла в заголовок Content-Disposition.",
+    "bucket": "Ведро",
+    "custom_host": "Настраиваемый хост",
+    "endpoint": "Endpoint",
+    "force_path_style": "Принудительный путь",
+    "list_object_version": "Версия объекта в списке",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Заполнитель",
+    "region": "Регион",
+    "remove_bucket": "Удалить ведро",
+    "remove_bucket-tips": "Удалить имя сегмента из пути при использовании пользовательского хоста.",
+    "root_folder_path": "Путь к корневой папке",
+    "secret_access_key": "Секретный ключ доступа",
+    "session_token": "Токен сессии",
+    "sign_url_expire": "Срок ссылки на знаки истекает"
+  },
+  "Dropbox": {
+    "client_id": "ID клиента",
+    "client_id-tips": "Оставьте пустым, если у вас нет ни одного",
+    "client_secret": "Секрет клиента",
+    "client_secret-tips": "Оставьте пустым, если у вас нет ни одного",
+    "oauth_token_url": "URL токена Oauth",
+    "refresh_token": "Обновить токен",
+    "root_folder_path": "Путь к корневой папке"
+  },
+  "FTP": {
+    "address": "Адрес",
+    "encoding": "Кодировка",
+    "password": "Пароль",
+    "root_folder_path": "Путь к корневой папке",
+    "username": "Имя пользователя"
+  },
+  "FebBox": {
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "page_size": "Размер страницы",
+    "page_size-tips": "list api per page size of FebBox driver",
+    "root_folder_id": "ID корневой папки",
+    "sort_rule": "Правило сортировки",
+    "sort_rules": {
+      "ext_asc": "Ext asc",
+      "ext_desc": "Ext desc",
+      "name_asc": "Имя asc",
+      "name_desc": "Описание имени",
+      "size_asc": "Size asc",
+      "size_desc": "Размеры",
+      "update_asc": "Update asc",
+      "update_desc": "Update desc"
+    },
+    "user_ip": "User ip",
+    "user_ip-tips": "user ip address for download link which can speed up the download"
+  },
+  "FeijiPan": {
+    "password": "Пароль",
+    "root_folder_id": "ID корневой папки",
+    "username": "Имя пользователя"
+  },
+  "GoogleDrive": {
+    "chunk_size": "Размер чанка",
+    "chunk_size-tips": "размер чанка при загрузке (единица: MB)",
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "order_by": "Сортировать по",
+    "order_by-tips": "такие как: папка, имя, модифицированное время",
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "Аск",
+      "desc": "Desc"
+    },
+    "refresh_token": "Обновить токен",
+    "root_folder_id": "ID корневой папки"
+  },
+  "GooglePhoto": {
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "refresh_token": "Обновить токен",
+    "root_folder_id": "ID корневой папки",
+    "show_archive": "Показать архив"
+  },
+  "HalalCloud": {
+    "app_id": "Идентификатор приложения",
+    "app_secret": "Секрет приложения",
+    "app_version": "Версия приложения",
+    "refresh_token": "Обновить токен",
+    "refresh_token-tips": "тип входа refresh_token,это необходимо",
+    "root_folder_path": "Путь к корневой папке",
+    "upload_thread": "Загрузить тему",
+    "upload_thread-tips": "1 <= поток <= 32"
+  },
+  "ILanZou": {
+    "password": "Пароль",
+    "root_folder_id": "ID корневой папки",
+    "username": "Имя пользователя"
+  },
+  "IPFS API": {
+    "endpoint": "Endpoint",
+    "gateway": "Шлюз",
+    "root_folder_path": "Путь к корневой папке"
+  },
+  "KodBox": {
+    "address": "Адрес",
+    "password": "Пароль",
+    "root_folder_path": "Путь к корневой папке",
+    "username": "Имя пользователя"
+  },
+  "Lanzou": {
+    "account": "Аккаунт",
+    "baseUrl": "BaseUrl",
+    "baseUrl-tips": "основной URL для операции с файлами",
+    "cookie": "Печенье",
+    "cookie-tips": "около 15 дней действительны, игнорировать, если shareUrl используется",
+    "password": "Пароль",
+    "repair_file_info": "Информация о файле ремонта",
+    "repair_file_info-tips": "Для использования webdav, необходимо включить его",
+    "root_folder_id": "ID корневой папки",
+    "shareUrl": "ShareUrl",
+    "shareUrl-tips": "используется для загрузки страницы общего доступа",
+    "share_password": "Отправить пароль",
+    "type": "Тип",
+    "types": {
+      "account": "Аккаунт",
+      "cookie": "Печенье",
+      "url": "Url"
+    },
+    "user_agent": "User agent"
+  },
+  "Lark": {
+    "app_id": "Идентификатор приложения",
+    "app_id-tips": "id приложения",
+    "app_secret": "Секрет приложения",
+    "app_secret-tips": "секрет приложения",
+    "external_mode": "Внешний режим",
+    "external_mode-tips": "внешний режим",
+    "root_folder_path": "Путь к корневой папке",
+    "tenant_url_prefix": "Префикс url владельца",
+    "tenant_url_prefix-tips": "префикс url владельца"
+  },
+  "LenovoNasShare": {
+    "host": "Host",
+    "host-tips": "You can change it to your local area network",
+    "root_folder_path": "Путь к корневой папке",
+    "share_id": "Поделиться id",
+    "share_id-tips": "The part after the last / in the shared link",
+    "share_pwd": "Поделиться pwd",
+    "share_pwd-tips": "The password of the shared link"
+  },
+  "Local": {
+    "mkdir_perm": "Mkdir perm",
+    "recycle_bin_path": "Путь корзины",
+    "recycle_bin_path-tips": "путь к корзине, удалить навсегда если пустой или оставить «удалить навсегда»",
+    "root_folder_path": "Путь к корневой папке",
+    "show_hidden": "Показать скрытые",
+    "show_hidden-tips": "показывать скрытые каталоги и файлы",
+    "thumb_cache_folder": "Папка кэша миниатюр",
+    "thumb_concurrency": "Thumb concurrency",
+    "thumb_concurrency-tips": "Number of concurrent thumbnail generation goroutines. This controls how many thumbnails can be generated in parallel.",
+    "thumbnail": "Thumbnail",
+    "thumbnail-tips": "разрешить эскиз"
+  },
+  "MediaTrack": {
+    "access_token": "Маркер доступа",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "size": "Размер",
+      "title": "Заголовок",
+      "updated_at": "Обновлено в"
+    },
+    "order_desc": "Описание заказа",
+    "project_id": "ID проекта",
+    "root_folder_id": "ID корневой папки"
+  },
+  "Mega_nz": {
+    "email": "Почта",
+    "password": "Пароль",
+    "two_fa_code": "Два кода fa",
+    "two_fa_code-tips": "6-значный код 2FA, заполняющий только 2FA код не поддерживает перезагрузку драйвера",
+    "two_fa_secret": "Двухсекретный ключ fa",
+    "two_fa_secret-tips": "2FA секрет"
+  },
+  "MoPan": {
+    "cloud_id": "Идентификатор облака",
+    "device_info": "Информация об устройстве",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "filename": "Имя файла",
+      "filesize": "Размер файла",
+      "lastOpTime": "LastOpTime"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "Аск",
+      "desc": "Desc"
+    },
+    "password": "Пароль",
+    "phone": "Телефон",
+    "root_folder_id": "ID корневой папки",
+    "sms_code": "Смс код",
+    "sms_code-tips": "введите 'Отправить' ",
+    "upload_thread": "Загрузить тему",
+    "upload_thread-tips": "1<=поток<=32"
+  },
+  "NeteaseMusic": {
+    "cookie": "Печенье",
+    "song_limit": "Лимит песни",
+    "song_limit-tips": "по умолчанию получить только 200 песен"
+  },
+  "Onedrive": {
+    "chunk_size": "Размер чанка",
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "custom_host": "Настраиваемый хост",
+    "custom_host-tips": "Пользовательский хост для ссылки на загрузку",
+    "is_sharepoint": "Является акционером",
+    "redirect_uri": "Перенаправить ури",
+    "refresh_token": "Обновить токен",
+    "region": "Регион",
+    "regions": {
+      "cn": "Кн",
+      "de": "Де",
+      "global": "Глобально",
+      "us": "Нас"
+    },
+    "root_folder_path": "Путь к корневой папке",
+    "site_id": "Site id"
+  },
+  "Onedrive Sharelink": {
+    "password": "Пароль",
+    "root_folder_path": "Путь к корневой папке",
+    "url": "Url"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "Размер чанка",
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "custom_host": "Настраиваемый хост",
+    "custom_host-tips": "Пользовательский хост для ссылки на загрузку",
+    "email": "Почта",
+    "region": "Регион",
+    "regions": {
+      "cn": "Кн",
+      "de": "Де",
+      "global": "Глобально",
+      "us": "Нас"
+    },
+    "root_folder_path": "Путь к корневой папке",
+    "tenant_id": "Tenant id"
+  },
+  "PikPak": {
+    "captcha_token": "Код captcha",
+    "custom_low_latency_address": "Custom low latency address",
+    "device_id": "ID устройства",
+    "disable_media_link": "Отключить медиа ссылку",
+    "password": "Пароль",
+    "platform": "Platform",
+    "platforms": {
+      "android": "Android",
+      "pc": "Pc",
+      "web": "Веб"
+    },
+    "refresh_token": "Обновить токен",
+    "refresh_token_method": "Refresh token method",
+    "refresh_token_methods": {
+      "http": "Http",
+      "oauth2": "Oauth2"
+    },
+    "root_folder_id": "ID корневой папки",
+    "use_low_latency_address": "Use low latency address",
+    "username": "Имя пользователя"
+  },
+  "PikPakShare": {
+    "custom_low_latency_address": "Custom low latency address",
+    "device_id": "ID устройства",
+    "platform": "Platform",
+    "platforms": {
+      "android": "Android",
+      "pc": "Pc",
+      "web": "Веб"
+    },
+    "root_folder_id": "ID корневой папки",
+    "share_id": "Поделиться id",
+    "share_pwd": "Поделиться pwd",
+    "use_low_latency_address": "Use low latency address",
+    "use_transcoding_address": "Use transcoding address"
+  },
+  "Quark": {
+    "cookie": "Печенье",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "file_name": "Имя файла",
+      "file_type": "Тип файла",
+      "none": "Нет",
+      "updated_at": "Обновлено в"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "Аск",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ID корневой папки"
+  },
+  "QuarkTV": {
+    "device_id": "ID устройства",
+    "query_token": "Query token",
+    "query_token-tips": "don't edit'",
+    "refresh_token": "Обновить токен",
+    "root_folder_id": "ID корневой папки"
+  },
+  "Quqi": {
+    "cdn": "Крн",
+    "cdn-tips": "Если вы включите эту опцию, скорость загрузки может быть увеличена, но некоторые потери производительности",
+    "cookie": "Печенье",
+    "cookie-tips": "Cookie можно использовать для нескольких клиентов одновременно",
+    "password": "Пароль",
+    "phone": "Телефон",
+    "root_folder_id": "ID корневой папки"
+  },
+  "S3": {
+    "access_key_id": "ID ключа доступа",
+    "add_filename_to_disposition": "Добавить имя файла для утилизации",
+    "add_filename_to_disposition-tips": "Добавить имя файла в заголовок Content-Disposition.",
+    "bucket": "Ведро",
+    "custom_host": "Настраиваемый хост",
+    "endpoint": "Endpoint",
+    "force_path_style": "Принудительный путь",
+    "list_object_version": "Версия объекта в списке",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "Заполнитель",
+    "region": "Регион",
+    "remove_bucket": "Удалить ведро",
+    "remove_bucket-tips": "Удалить имя сегмента из пути при использовании пользовательского хоста.",
+    "root_folder_path": "Путь к корневой папке",
+    "secret_access_key": "Секретный ключ доступа",
+    "session_token": "Токен сессии",
+    "sign_url_expire": "Срок ссылки на знаки истекает"
+  },
+  "SFTP": {
+    "address": "Адрес",
+    "ignore_symlink_error": "Ошибка игнорирования символической ссылки",
+    "passphrase": "Парольная фраза",
+    "password": "Пароль",
+    "private_key": "Приватный ключ",
+    "root_folder_path": "Путь к корневой папке",
+    "username": "Имя пользователя"
+  },
+  "SMB": {
+    "address": "Адрес",
+    "password": "Пароль",
+    "root_folder_path": "Путь к корневой папке",
+    "share_name": "Поделиться именем",
+    "username": "Имя пользователя"
+  },
+  "Seafile": {
+    "address": "Адрес",
+    "password": "Пароль",
+    "repoId": "RepoId",
+    "repoPwd": "РепоПвд",
+    "root_folder_path": "Путь к корневой папке",
+    "token": "Токен",
+    "username": "Имя пользователя"
+  },
+  "Teambition": {
+    "cookie": "Печенье",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "created": "Создано",
+      "fileName": "Имя файла",
+      "fileSize": "Размер файла",
+      "updated": "Обновлено"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "Asc": "Аск",
+      "Desc": "Desc"
+    },
+    "project_id": "ID проекта",
+    "region": "Регион",
+    "regions": {
+      "china": "Китай",
+      "international": "Международные"
+    },
+    "root_folder_id": "ID корневой папки",
+    "use_s3_upload_method": "Использовать s3 метод загрузки"
+  },
+  "Terabox": {
+    "cookie": "Печенье",
+    "download_api": "Скачать api",
+    "download_apis": {
+      "crack": "Треснуть",
+      "official": "Официальный"
+    },
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "name": "Наименование",
+      "size": "Размер",
+      "time": "Время"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "Аск",
+      "desc": "Desc"
+    },
+    "root_folder_path": "Путь к корневой папке"
+  },
+  "Thunder": {
+    "captcha_token": "Код captcha",
+    "password": "Пароль",
+    "root_folder_id": "ID корневой папки",
+    "username": "Имя пользователя"
+  },
+  "ThunderBrowser": {
+    "captcha_token": "Код captcha",
+    "password": "Пароль",
+    "remove_way": "Удалить линию",
+    "remove_ways": {
+      "delete": "Удалить",
+      "trash": "Корзина"
+    },
+    "root_folder_id": "ID корневой папки",
+    "safe_password": "Безопасный пароль",
+    "use_video_url": "Использовать ссылку на видео",
+    "username": "Имя пользователя"
+  },
+  "ThunderBrowserExpert": {
+    "algorithms": "Алгоритмы",
+    "algorithms-tips": "тип знака - алгоритмы, это требуется",
+    "captcha_sign": "Знак капчи",
+    "captcha_sign-tips": "тип знака - captcha_sign,это требуется",
+    "captcha_token": "Код captcha",
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "client_version": "Версия клиента",
+    "device_id": "ID устройства",
+    "download_user_agent": "Скачать пользовательский агент",
+    "login_type": "Тип входа",
+    "login_types": {
+      "refresh_token": "Обновить токен",
+      "user": "Пользователь"
+    },
+    "package_name": "Имя пакета",
+    "password": "Пароль",
+    "password-tips": "тип логина — пользователь",
+    "refresh_token": "Обновить токен",
+    "refresh_token-tips": "тип входа refresh_token,это необходимо",
+    "remove_way": "Удалить линию",
+    "remove_ways": {
+      "delete": "Удалить",
+      "trash": "Корзина"
+    },
+    "root_folder_id": "ID корневой папки",
+    "safe_password": "Безопасный пароль",
+    "safe_password-tips": "супер безопасный пароль",
+    "sign_type": "Тип подписи",
+    "sign_types": {
+      "algorithms": "Алгоритмы",
+      "captcha_sign": "Знак капчи"
+    },
+    "timestamp": "Отметка времени",
+    "timestamp-tips": "тип знака - captcha_sign,это требуется",
+    "use_video_url": "Использовать ссылку на видео",
+    "user_agent": "User agent",
+    "username": "Имя пользователя",
+    "username-tips": "тип логина — пользователь"
+  },
+  "ThunderExpert": {
+    "algorithms": "Алгоритмы",
+    "algorithms-tips": "тип знака - алгоритмы, это требуется",
+    "captcha_sign": "Знак капчи",
+    "captcha_sign-tips": "тип знака - captcha_sign,это требуется",
+    "captcha_token": "Код captcha",
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "client_version": "Версия клиента",
+    "device_id": "ID устройства",
+    "download_user_agent": "Скачать пользовательский агент",
+    "login_type": "Тип входа",
+    "login_types": {
+      "refresh_token": "Обновить токен",
+      "user": "Пользователь"
+    },
+    "package_name": "Имя пакета",
+    "password": "Пароль",
+    "password-tips": "тип логина — пользователь",
+    "refresh_token": "Обновить токен",
+    "refresh_token-tips": "тип входа refresh_token,это необходимо",
+    "root_folder_id": "ID корневой папки",
+    "sign_type": "Тип подписи",
+    "sign_types": {
+      "algorithms": "Алгоритмы",
+      "captcha_sign": "Знак капчи"
+    },
+    "timestamp": "Отметка времени",
+    "timestamp-tips": "тип знака - captcha_sign,это требуется",
+    "use_video_url": "Использовать ссылку на видео",
+    "user_agent": "User agent",
+    "username": "Имя пользователя",
+    "username-tips": "тип логина — пользователь"
+  },
+  "ThunderX": {
+    "captcha_token": "Код captcha",
+    "password": "Пароль",
+    "root_folder_id": "ID корневой папки",
+    "use_video_url": "Использовать ссылку на видео",
+    "username": "Имя пользователя"
+  },
+  "ThunderXExpert": {
+    "algorithms": "Алгоритмы",
+    "algorithms-tips": "тип знака - алгоритмы, это требуется",
+    "captcha_sign": "Знак капчи",
+    "captcha_sign-tips": "тип знака - captcha_sign,это требуется",
+    "captcha_token": "Код captcha",
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "client_version": "Версия клиента",
+    "device_id": "ID устройства",
+    "download_user_agent": "Скачать пользовательский агент",
+    "login_type": "Тип входа",
+    "login_types": {
+      "refresh_token": "Обновить токен",
+      "user": "Пользователь"
+    },
+    "package_name": "Имя пакета",
+    "password": "Пароль",
+    "password-tips": "тип логина — пользователь",
+    "refresh_token": "Обновить токен",
+    "refresh_token-tips": "тип входа refresh_token,это необходимо",
+    "root_folder_id": "ID корневой папки",
+    "sign_type": "Тип подписи",
+    "sign_types": {
+      "algorithms": "Алгоритмы",
+      "captcha_sign": "Знак капчи"
+    },
+    "timestamp": "Отметка времени",
+    "timestamp-tips": "тип знака - captcha_sign,это требуется",
+    "use_video_url": "Использовать ссылку на видео",
+    "user_agent": "User agent",
+    "username": "Имя пользователя",
+    "username-tips": "тип логина — пользователь"
+  },
+  "Trainbit": {
+    "AUSHELLPORTAL": "AUSHELLPORTAL",
+    "apikey": "Apikey",
+    "root_folder_id": "ID корневой папки"
+  },
+  "UC": {
+    "cookie": "Печенье",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "file_name": "Имя файла",
+      "file_type": "Тип файла",
+      "none": "Нет",
+      "updated_at": "Обновлено в"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "Аск",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ID корневой папки"
+  },
+  "UCTV": {
+    "device_id": "ID устройства",
+    "query_token": "Query token",
+    "query_token-tips": "don't edit'",
+    "refresh_token": "Обновить токен",
+    "root_folder_id": "ID корневой папки"
+  },
+  "USS": {
+    "anti_theft_chain_token": "Маркер цепи против кражи",
+    "bucket": "Ведро",
+    "endpoint": "Endpoint",
+    "operator_name": "Имя оператора",
+    "operator_password": "Пароль оператора",
+    "root_folder_path": "Путь к корневой папке",
+    "sign_url_expire": "Срок ссылки на знаки истекает"
+  },
+  "UrlTree": {
+    "head_size": "Размер головы",
+    "head_size-tips": "Используйте метод head, чтобы получить размер файла, но он может быть не выполнен.",
+    "url_structure": "Структура URL",
+    "url_structure-tips": "структура:Имя папки:\n  [Имя файла:][Размер:][Изменено:]Url"
+  },
+  "VTencent": {
+    "cookie": "Печенье",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "CreatTime": "CreatTime",
+      "Name": "Наименование",
+      "Size": "Размер",
+      "UpdateTime": "Время обновления"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "Asc": "Аск",
+      "Desc": "Desc"
+    },
+    "root_folder_id": "ID корневой папки",
+    "tf_uid": "Tf uid"
+  },
+  "Virtual": {
+    "max_file_size": "Максимальный размер файла",
+    "min_file_size": "Мин. размер файла",
+    "num_file": "Кол-во файлов",
+    "num_folder": "Кол-во папок",
+    "root_folder_path": "Путь к корневой папке"
+  },
+  "WebDav": {
+    "address": "Адрес",
+    "password": "Пароль",
+    "root_folder_path": "Путь к корневой папке",
+    "tls_insecure_skip_verify": "Проверка небезопасных пропусков",
+    "username": "Имя пользователя",
+    "vendor": "Поставщик",
+    "vendors": {
+      "other": "Прочие вопросы",
+      "sharepoint": "Точка доступа"
+    }
+  },
+  "WeiYun": {
+    "cookies": "Печенье",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "name": "Наименование",
+      "size": "Размер",
+      "updated_at": "Обновлено в"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "Аск",
+      "desc": "Desc"
+    },
+    "root_folder_id": "ID корневой папки",
+    "upload_thread": "Загрузить тему",
+    "upload_thread-tips": "4<=поток<=32"
+  },
+  "WoPan": {
+    "access_token": "Маркер доступа",
+    "family_id": "Семейный id",
+    "family_id-tips": "Оставьте пустым, если хотите использовать персональный диск",
+    "refresh_token": "Обновить токен",
+    "root_folder_id": "ID корневой папки",
+    "sort_rule": "Правило сортировки",
+    "sort_rules": {
+      "name_asc": "Имя asc",
+      "name_desc": "Описание имени",
+      "size_asc": "Size asc",
+      "size_desc": "Размеры",
+      "time_asc": "Время ск",
+      "time_desc": "Описание времени"
+    }
+  },
+  "YandexDisk": {
+    "client_id": "ID клиента",
+    "client_secret": "Секрет клиента",
+    "order_by": "Сортировать по",
+    "order_bys": {
+      "created": "Создано",
+      "modified": "Изменено",
+      "name": "Наименование",
+      "path": "Путь",
+      "size": "Размер"
+    },
+    "order_direction": "Направление заказа",
+    "order_directions": {
+      "asc": "Аск",
+      "desc": "Desc"
+    },
+    "refresh_token": "Обновить токен",
+    "root_folder_path": "Путь к корневой папке"
+  },
+  "config": {
+    "115 Cloud": {},
+    "115 Share": {},
+    "123Pan": {},
+    "123PanLink": {},
+    "123PanShare": {},
+    "139Yun": {},
+    "189Cloud": {
+      "alert": "Вы можете попробовать использовать драйвер 189PC, если этот драйвер не работает."
+    },
+    "189CloudPC": {},
+    "AList V2": {},
+    "AList V3": {},
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "There may be an infinite loop bug in this driver.\nDeprecated, no longer maintained and will be removed in a future version.\nWe recommend using the official driver AliyundriveOpen."
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "BaiduShare": {},
+    "ChaoXingGroupDrive": {},
+    "Cloudreve": {},
+    "Crypt": {},
+    "Doge": {},
+    "Dropbox": {},
+    "FTP": {},
+    "FebBox": {},
+    "FeijiPan": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "HalalCloud": {},
+    "ILanZou": {},
+    "IPFS API": {},
+    "KodBox": {},
+    "Lanzou": {},
+    "Lark": {},
+    "LenovoNasShare": {},
+    "Local": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "MoPan": {
+      "alert": "Этот сетевой диск может хранить ваш пароль в ясном виде. Пожалуйста, тщательно установите ваш пароль"
+    },
+    "NeteaseMusic": {},
+    "Onedrive": {},
+    "Onedrive Sharelink": {},
+    "OnedriveAPP": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "Quark": {},
+    "QuarkTV": {},
+    "Quqi": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Teambition": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderBrowser": {},
+    "ThunderBrowserExpert": {},
+    "ThunderExpert": {},
+    "ThunderX": {},
+    "ThunderXExpert": {},
+    "Trainbit": {},
+    "UC": {},
+    "UCTV": {},
+    "USS": {},
+    "UrlTree": {},
+    "VTencent": {},
+    "Virtual": {},
+    "WebDav": {},
+    "WeiYun": {},
+    "WoPan": {},
+    "YandexDisk": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 облако",
+    "115 Share": "Поделиться 115",
+    "123Pan": "123Пан",
+    "123PanLink": "123PanLink",
+    "123PanShare": "123PanShare",
+    "139Yun": "139Yun",
+    "189Cloud": "189Облако",
+    "189CloudPC": "189CloudPC",
+    "AList V2": "AList V2",
+    "AList V3": "AList V3",
+    "Alias": "Alias",
+    "Aliyundrive": "Aliyundrive",
+    "AliyundriveOpen": "AliyundriveOpen",
+    "AliyundriveShare": "AliyundriveShare",
+    "BaiduNetdisk": "BaiduNetdisk",
+    "BaiduPhoto": "BaiduPhoto",
+    "BaiduShare": "Поделиться",
+    "ChaoXingGroupDrive": "ChaoXingGroupDrive",
+    "Cloudreve": "Cloudreve",
+    "Crypt": "Склеп",
+    "Doge": "Doge",
+    "Dropbox": "Dropbox",
+    "FTP": "FTP",
+    "FebBox": "FebBox",
+    "FeijiPan": "ФедзиПан",
+    "GoogleDrive": "GoogleDrive",
+    "GooglePhoto": "GooglePhoto",
+    "HalalCloud": "HalalCloud",
+    "ILanZou": "ILanZou",
+    "IPFS API": "IPFS API",
+    "KodBox": "KodBox",
+    "Lanzou": "Lanzou",
+    "Lark": "Ларк",
+    "LenovoNasShare": "LenovoNasShare",
+    "Local": "Локальный",
+    "MediaTrack": "MediaTrack",
+    "Mega_nz": "Мега нц",
+    "MoPan": "MoPan",
+    "NeteaseMusic": "Музыка NeteaseMusic",
+    "Onedrive": "Выполнено",
+    "Onedrive Sharelink": "Onedrive Sharelink",
+    "OnedriveAPP": "Всестороннее приложение",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPakShare",
+    "Quark": "Кварк",
+    "QuarkTV": "QuarkTV",
+    "Quqi": "Куци",
+    "S3": "S3",
+    "SFTP": "SFTP",
+    "SMB": "СМБ",
+    "Seafile": "Морской",
+    "Teambition": "Teambition",
+    "Terabox": "Терабкс",
+    "Thunder": "Гром",
+    "ThunderBrowser": "Браузер грома",
+    "ThunderBrowserExpert": "БраузерЭксперт Грома",
+    "ThunderExpert": "Мастер Грома",
+    "ThunderX": "Громор",
+    "ThunderXExpert": "ThunderXExpert",
+    "Trainbit": "Тренировка",
+    "UC": "UC",
+    "UCTV": "UCTV",
+    "USS": "USS",
+    "UrlTree": "UrlTree",
+    "VTencent": "VTencent",
+    "Virtual": "Виртуальный",
+    "WebDav": "WebDav",
+    "WeiYun": "WeiYun",
+    "WoPan": "WoPan",
+    "YandexDisk": "ЯндексДиск"
+  }
+}

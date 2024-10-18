@@ -1,0 +1,17 @@
+{
+  "backup": "백업",
+  "restore": "복원",
+  "start_backup": "백업 시작",
+  "finish_backup": "백업 완료",
+  "success_backup_item": "[ {{item}} ] 백업 성공",
+  "failed_backup_item": "[ {{item}} ] 백업 실패",
+  "no_file": "파일을 선택하지 않음",
+  "start_restore": "복원 시작",
+  "finish_restore": "복원 완료",
+  "success_restore_item": "[ {{item}} ] 복원 성공",
+  "failed_restore_item": "[ {{item}} ] 복원 실패",
+  "override": "덮어쓰기",
+  "encrypt_password_placeholder": "암호화를 원하지 않으면 비워 두십시오",
+  "encrypt_password": "암호화 비밀번호",
+  "wrong_encrypt_password": "암호화 비밀번호가 틀렸습니다"
+}

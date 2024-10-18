@@ -1,0 +1,171 @@
+{
+  "obj": {
+    "name": "ชื่อ",
+    "size": "ขนาด",
+    "modified": "เวลาแก้ไข"
+  },
+  "preview": {
+    "download": "ดาวน์โหลด",
+    "failed_load_img": "โหลดภาพล้มเหลว",
+    "open_with": "เปิดด้วย...",
+    "play_with": "เล่นด้วย...",
+    "install": "ติดตั้ง",
+    "installing": "กำลังติดตั้ง",
+    "tr-install": "TrollStore",
+    "tr-installing": "TrollStore กำลังติดตั้ง",
+    "open_in_new_window": "เปิดในหน้าต่างใหม่",
+    "auto_next": "อัตโนมัติต่อไป"
+  },
+  "layouts": {
+    "list": "มุมมองรายการ",
+    "grid": "มุมมองตาราง",
+    "image": "มุมมองภาพ"
+  },
+  "no_images": "ไม่มีภาพในโฟลเดอร์นี้",
+  "load_more": "โหลดเพิ่มเติม",
+  "no_more": "ไม่มีอีกแล้ว",
+  "input_password": "กรุณาใส่รหัสผ่าน",
+  "toolbar": {
+    "more": "เพิ่มเติม",
+    "refresh": "รีเฟรช",
+    "toggle_theme": "สลับธีม",
+    "switch_lang": "สลับภาษา",
+    "toggle_markdown_toc": "แสดงสารบัญ",
+    "toggle_checkbox": "สลับกล่องเลือก",
+    "rename": "เปลี่ยนชื่อ",
+    "input_new_name": "ใส่ชื่อใหม่",
+    "only_one-tips": "เลือกวัตถุเดียวเท่านั้นเพื่อเปลี่ยนชื่อ",
+    "move": "ย้าย",
+    "copy": "คัดลอก",
+    "choose_dst_folder": "เลือกโฟลเดอร์ปลายทาง",
+    "delete": "ลบ",
+    "delete-tips": "คุณแน่ใจหรือไม่ว่าต้องการลบวัตถุที่เลือก?",
+    "copy_link": "คัดลอกลิงก์",
+    "preview_page": "หน้าตัวอย่าง",
+    "down_link": "ลิงก์ดาวน์โหลด",
+    "encode_down_link": "เข้ารหัสลิงก์ดาวน์โหลด",
+    "mkdir": "สร้างโฟลเดอร์ใหม่",
+    "input_dir_name": "ใส่ชื่อโฟลเดอร์",
+    "new_file": "สร้างไฟล์ใหม่",
+    "input_filename": "ใส่ชื่อไฟล์",
+    "cancel_select": "ยกเลิกการเลือก",
+    "offline_download": "ดาวน์โหลดออฟไลน์",
+    "offline_download-tips": "ลิงก์หนึ่งต่อบรรทัด",
+    "delete_policy": {
+      "delete_on_upload_succeed": "ลบเมื่ออัปโหลดสำเร็จ",
+      "delete_on_upload_failed": "ลบเมื่ออัปโหลดล้มเหลว",
+      "delete_never": "ไม่ลบ",
+      "delete_always": "ลบเสมอ"
+    },
+    "download": "ดาวน์โหลด",
+    "batch_download": "ดาวน์โหลดแบบกลุ่ม",
+    "package_download": "ดาวน์โหลดเป็นแพ็กเกจ",
+    "package_download_disabled": "การดาวน์โหลดเป็นแพ็กเกจถูกปิดใช้งาน",
+    "send_aria2": "ส่งไปยัง Aria2",
+    "aria2_not_set": "กรุณาตั้งค่า aria2 rpc url",
+    "send_aria2_success": "ส่งไปยัง aria2 สำเร็จ",
+    "pre_package_download-tips": "การดาวน์โหลดแพ็กเกจในเบราว์เซอร์โดยใช้ streamsaver แทนเซิร์ฟเวอร์ต้องการการสนับสนุน cors และการจัดเก็บที่ไม่สนับสนุนจะล้มเหลว",
+    "package_download-tips": "กำลังดาวน์โหลด โปรดรอสักครู่และอย่าปิดหน้า",
+    "playlist_download": "ดาวน์โหลดรายการเล่น",
+    "upload": "อัปโหลด",
+    "local_settings": "การตั้งค่าท้องถิ่น",
+    "recursive_move": "ย้ายแบบเรียงลำดับ",
+    "recursive_move_directory-tips": "คุณแน่ใจหรือไม่ว่าต้องการย้ายไฟล์ทั้งหมดในโฟลเดอร์ปัจจุบันและโฟลเดอร์ย่อยไปยังโฟลเดอร์ที่กำหนด?",
+    "remove_empty_directory": "ลบโฟลเดอร์ย่อยที่ว่างเปล่า",
+    "remove_empty_directory-tips": "คุณแน่ใจหรือไม่ว่าต้องการลบโฟลเดอร์ย่อยที่ว่างเปล่าทั้งหมด?",
+    "batch_rename": "เปลี่ยนชื่อแบบกลุ่ม",
+    "regex_rename": "เปลี่ยนชื่อโดยใช้ Regular Expression",
+    "sequential_renaming": "เปลี่ยนชื่อแบบลำดับ",
+    "regex_rename_preview": "ไฟล์ที่เปลี่ยนชื่อ",
+    "regex_rename_preview_old_name": "ชื่อเดิม",
+    "regex_rename_preview_new_name": "ชื่อใหม่",
+    "regular_rename": "เปลี่ยนชื่อไฟล์โดยใช้ Regular Expression ป้อน Regular Expression ของชื่อไฟล์ในบรรทัดแรก และป้อน Regular Expression ของชื่อไฟล์ใหม่ในบรรทัดที่สอง",
+    "sequential_renaming_desc": "ชื่อไฟล์ใหม่จะมีค่าเริ่มต้นที่เป็นตัวเลขและจะเพิ่มขึ้นทีละ 1 ป้อนชื่อไฟล์ใหม่ในบรรทัดแรก และป้อนค่าเริ่มต้นในบรรทัดที่สอง"
+  },
+  "upload": {
+    "add_as_task": "เพิ่มเป็นงาน",
+    "upload-tips": "ลากไฟล์มาที่นี่เพื่ออัปโหลด หรือคลิก:",
+    "release": "ปล่อยเพื่ออัปโหลด",
+    "no_files_drag": "ไม่มีไฟล์ที่ลากเข้า",
+    "upload_files": "เลือกไฟล์",
+    "upload_folder": "เลือกโฟลเดอร์",
+    "pending": "กำลังรอ...",
+    "uploading": "กำลังอัปโหลด",
+    "backending": "กำลังอัปโหลดเบื้องหลัง",
+    "success": "สำเร็จ",
+    "error": "ข้อผิดพลาด",
+    "back": "กลับไปยังการอัปโหลด",
+    "clear_done": "ล้างสำเร็จ"
+  },
+  "local_settings": {
+    "aria2_rpc_url": "Aria2 RPC URL",
+    "aria2_rpc_secret": "รหัสลับ Aria2 RPC",
+    "aria2_dir": "ไดเรกทอรีดาวน์โหลด Aria2",
+    "show_folder_in_image_view": "แสดงโฟลเดอร์ในมุมมองภาพ",
+    "show_folder_in_image_view_options": {
+      "top": "บน",
+      "bottom": "ล่าง",
+      "none": "ไม่มี"
+    },
+    "global_default_layout": "เลย์เอาต์เริ่มต้นทั่วโลก",
+    "global_default_layout_options": {
+      "list": "มุมมองรายการ",
+      "grid": "มุมมองตาราง",
+      "image": "มุมมองภาพ"
+    },
+    "position_of_header_navbar": "ตำแหน่งของแถบหัวเรื่องและแถบนำทาง",
+    "position_of_header_navbar_options": {
+      "static": "ปกติ",
+      "sticky": "ติดด้านบน",
+      "only_navbar_sticky": "ติดเฉพาะแถบนำทาง"
+    },
+    "show_sidebar": "แสดงแถบด้านข้าง",
+    "show_sidebar_options": {
+      "none": "ไม่มี",
+      "visible": "แสดง"
+    },
+    "list_item_filename_overflow": "ชื่อไฟล์ในรายการยาวเกินไป",
+    "list_item_filename_overflow_options": {
+      "ellipsis": "จุดไข่ปลา",
+      "scrollable": "เลื่อนได้",
+      "multi_line": "แสดงหลายบรรทัด"
+    },
+    "open_item_on_checkbox": "เปิดรายการในช่องทำเครื่องหมาย",
+    "open_item_on_checkbox_options": {
+      "direct": "เปิดโดยตรง",
+      "disable_while_checked": "ปิดใช้งานขณะเลือก",
+      "with_ctrl": "เปิดด้วย Ctrl/Command",
+      "with_alt": "เปิดด้วย Alt/Option"
+    },
+    "select_with_mouse": "เลือกด้วยเมาส์เมื่อปิดช่องทำเครื่องหมาย",
+    "select_with_mouse_options": {
+      "disabled": "ปิดใช้งาน",
+      "open_item_with_dblclick": "เปิดด้วยการดับเบิลคลิก"
+    }
+  },
+  "package_download": {
+    "current_status": "สถานะปัจจุบัน",
+    "initializing": "กำลังเริ่มต้น",
+    "fetching_struct": "กำลังดึงโครงสร้างโฟลเดอร์",
+    "fetching_struct_failed": "ดึงโครงสร้างโฟลเดอร์ล้มเหลว",
+    "downloading": "กำลังดาวน์โหลดไฟล์ อย่าปิดหรือรีเฟรชหน้า",
+    "failed": "การดาวน์โหลดแพ็กเกจล้มเหลว",
+    "success": "ดาวน์โหลดเสร็จสิ้น"
+  },
+  "footer": {
+    "powered_by": "ขับเคลื่อนโดย AList",
+    "manage": "การจัดการ"
+  },
+  "search": {
+    "search": "ค้นหา",
+    "no_result": "ไม่มีผลลัพธ์",
+    "scopes": {
+      "all": "ทั้งหมด",
+      "folder": "โฟลเดอร์",
+      "file": "ไฟล์"
+    }
+  },
+  "fetching_settings_failed": "ดึงการตั้งค่าล้มเหลว: ",
+  "get_current_user_failed": "ดึงผู้ใช้ปัจจุบันล้มเหลว: ",
+  "Loading storage, please wait": "กำลังโหลดการจัดเก็บ โปรดรอ"
+}
