@@ -1,21 +1,14 @@
 # replace version
 cd alist-web
 version=$(git describe --abbrev=0 --tags)
-sed -i -e "s/\"version\": \"0.0.0\"/\"version\": \"$version\"/g" package.json
+sed -i -e "s/0.0.0/$version/g" package.json
 cat package.json
 
 # build
 pnpm install
 wget https://crowdin.com/backend/download/project/alist/zh-CN.zip 
-unzip zh-CN.zip
-wget https://crowdin.com/backend/download/project/alist/zh-TW.zip 	
-unzip zh-TW.zip
-wget https://crowdin.com/backend/download/project/alist/ja.zip 
-unzip ja.zip
+unzip zh-CN.zip 
 node ./scripts/i18n.mjs
-rm zh-CN.zip
-rm zh-TW.zip
-rm ja.zip
 pnpm build
 cp -r dist ../
 cd ..
